@@ -1,10 +1,10 @@
 import './App.css';
-import arrangeArray from './components/arrangeArrays';
+import Hero from './components/hero';
 
 function App() {
   return (
     <main className="container"> 
-      <arrangeArrays/>
+      <Hero />
     </main>
   );
 }
